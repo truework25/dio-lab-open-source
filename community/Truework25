@@ -1,4 +1,7 @@
-#Janio S.Paulino
+ <h1>Olá!!! 👋 </h1>
+    <h2>Bem vindo ao meu Perfil.</h2>
+    <p> Eu em chamo Janio S. Paulino. Tenho grande paixão pela tecnologia e a programação. No momento, estudo Ciência de Dados
+    </p - uma área que é bem ampla e inovadora. 
 
 
 
@@ -9,7 +12,10 @@ Este repositório documenta minha contribuição para o projeto open source [Pan
 ## 🎯 Objetivo
 
 Adicionar exemplos práticos e didáticos que ilustram o uso dos parâmetros `how='all'` e `thresh` na função `dropna()`, facilitando o entendimento para usuários iniciantes e intermediários.
-
+## Linguagens de Programação
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ## 📁 Estrutura do repositório
 
 - `contribution-summary.md`: resumo completo da contribuição, com link para o Pull Request oficial.
