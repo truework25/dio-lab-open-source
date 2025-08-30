@@ -9,14 +9,14 @@
 
 Este repositório documenta minha contribuição para o projeto open source [Pandas](https://github.com/pandas-dev/pandas), focada na melhoria da docstring da função `dropna()`.
 
-## 🎯 Objetivo
+ 🎯 Objetivo
 
 Adicionar exemplos práticos e didáticos que ilustram o uso dos parâmetros `how='all'` e `thresh` na função `dropna()`, facilitando o entendimento para usuários iniciantes e intermediários.
-## Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-## 📁 Estrutura do repositório
+ Linguagens de Programação
+Python
+C#
+SQL
+ 📁 Estrutura do repositório
 
 - `contribution-summary.md`: resumo completo da contribuição, com link para o Pull Request oficial.
 - `test_dropna_examples.py`: script com os exemplos testados localmente.
