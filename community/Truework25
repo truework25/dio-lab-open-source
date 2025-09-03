@@ -7,28 +7,18 @@
 
 # 📘 Contribuição para o Pandas: Melhoria na documentação da função `dropna()`
 
-Este repositório documenta minha contribuição para o projeto open source [Pandas](https://github.com/pandas-dev/pandas), focada na melhoria da docstring da função `dropna()`.
+Neste repositório serão documentadas experiênicas com algumas funções do Python.
 
  🎯 Objetivo
 
-Adicionar exemplos práticos e didáticos que ilustram o uso dos parâmetros `how='all'` e `thresh` na função `dropna()`, facilitando o entendimento para usuários iniciantes e intermediários.
+Adicionar exemplos práticos e didáticos que ilustram no Python  o uso dos parâmetros `how='all'` e `thresh` na função `dropna()`, facilitando o entendimento para usuários iniciantes e intermediários.
  Linguagens de Programação
 Python
 C#
 SQL
  📁 Estrutura do repositório
 
-- `contribution-summary.md`: resumo completo da contribuição, com link para o Pull Request oficial.
-- `test_dropna_examples.py`: script com os exemplos testados localmente.
-- `README.md`: este arquivo, com contexto e instruções.
+- `
 
-## 🔗 Pull Request oficial
 
-> [#52194 – Improve dropna documentation with examples for how='all' and thresh](https://github.com/pandas-dev/pandas/pull/52194)
 
-## 🧪 Como testar os exemplos
-
-Execute o script no terminal:
-
-```bash
-python test_dropna_examples.py
